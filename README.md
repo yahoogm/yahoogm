@@ -1,4 +1,5 @@
-# Hello everyone 👋 i'm Yahoo Garfield Manik
+# Hello World 🌍 
+## i'm Yahoo Garfield Manik
 
 **`Frontend Web Developer`**
 
