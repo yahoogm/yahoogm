@@ -21,8 +21,8 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-<h3 align="center">Find me at 👇</h3>
-<p align="center"> 
+### 🔍 Find me at 
+<p> 
   <a href="https://www.linkedin.com/in/yahoo-garfield-manik-24b67b210/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
