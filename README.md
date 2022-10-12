@@ -9,7 +9,7 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 
 <br/>
 
-<h3>Find me at 👇</h3>
+<h3 align="center">Find me at 👇</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/yahoo-garfield-manik-24b67b210/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
