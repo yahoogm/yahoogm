@@ -19,3 +19,13 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
+
+### 🔍 You Can Find Me at 
+<p> 
+  <a href="https://www.linkedin.com/in/gilang-adhan/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/gilang_adhan/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+</p>
