@@ -7,7 +7,7 @@
 
 I'm a beginner in the Fronted Web Developer field who is always learning all the time to improve my skills. All the code, projects/repositories that I push on github are the result of my learning. Every time I am always happy to find out new things about programming.
 
-<br/>
+<hr/>
 
 ### 🧰 Languages and Tools
 
@@ -19,6 +19,8 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br />
 <br />
 
 ### 🔍 Find me at 
