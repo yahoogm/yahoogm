@@ -14,7 +14,7 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 🧰 Languages and Tools
 </h3>
 
-<img align="center" alt="HTML" width="30px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="center" alt="HTML" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="center" alt="CSS" width="30px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="center" alt="JavaScript" width="30px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="center" alt="React" width="30px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -26,7 +26,6 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 <a href="https://github.com/yahoogm/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoogm&layout=compact&theme=buefy&hide_border=true" 
 </a>
-</div>
 
 ### 🔍 Find me at
 
@@ -38,3 +37,4 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
 </p>
+</div>
