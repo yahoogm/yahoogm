@@ -14,14 +14,14 @@
 <br>
 <br>
 
-<a href="https://github.com/yahoogm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoogm&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yahoo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoogm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 
 ### 🔍 Find me at
 
 <p> 
   <a href="https://www.linkedin.com/in/yahoo-garfield-manik-24b67b210/" target="blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=dark-blue" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="https://www.instagram.com/yahoomanik/" target="blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
