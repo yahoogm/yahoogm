@@ -21,7 +21,7 @@
 
 <p> 
   <a href="https://www.linkedin.com/in/yahoo-garfield-manik-24b67b210/" target="blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=dark-blue" />
   </a> 
   <a href="https://www.instagram.com/yahoomanik/" target="blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
