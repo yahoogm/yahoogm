@@ -9,7 +9,10 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 
 <hr/>
 
-### 🧰 Languages and Tools
+<div align="center">
+<h3 align="center">
+🧰 Languages and Tools
+</h3>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -23,6 +26,7 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 <a href="https://github.com/yahoogm/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoogm&layout=compact&theme=buefy&hide_border=true" 
 </a>
+</div>
 
 ### 🔍 Find me at 
 <p> 
