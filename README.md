@@ -10,7 +10,7 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 <hr/>
 
 <div align="center">
-<h3 align="center">
+<h3>
 🧰 Languages and Tools
 </h3>
 
@@ -28,7 +28,8 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 </a>
 </div>
 
-### 🔍 Find me at 
+### 🔍 Find me at
+
 <p> 
   <a href="https://www.linkedin.com/in/yahoo-garfield-manik-24b67b210/" target="blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
