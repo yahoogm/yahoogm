@@ -1,10 +1,8 @@
 ### Welcome to Yahoo Garfield Manik profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**`Frontend Web Developer`**
-
-I'm a beginner in the Fronted Web Developer field who is always learning all the time to improve my skills. All the code, projects/repositories that I push on github are the result of my learning. Every time I am always happy to find out new things about programming.
-
-<hr/>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Beginner+Frontend+Web+Developer;Always+Learning+New+Things;Coding+Lover+From+Indonesia" alt="Typing SVG" /></a>
+</p>
 
 ### 🧰 Languages and Tools
 
@@ -20,7 +18,6 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 
 <a href="https://github.com/yahoogm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoogm&layout=compact&theme=buefy&hide_border=true" /></a>
 
-<hr/>
 
 ### 🔍 Find me at
 
