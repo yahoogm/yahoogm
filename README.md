@@ -8,8 +8,6 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 
 <hr/>
 
-<br/>
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -18,11 +16,11 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 <img align="left" alt="React" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+<br/>
+
 <a href="https://github.com/yahoogm/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoogm&layout=compact&theme=buefy&hide_border=true" />
 </a>
-
-<br/>
 
 <hr/>
 
