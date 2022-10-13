@@ -16,9 +16,10 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 
 <br>
 
-### 🗿 My Stats
-
+<p>
 <a href="https://github.com/yahoogm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoogm&layout=compact&theme=buefy&hide_border=true" /></a>
+
+</p>
 
 <hr/>
 
