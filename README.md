@@ -10,11 +10,10 @@ I'm a beginner in the Fronted Web Developer field who is always learning all the
 <hr/>
 
 <div align="center">
-<h3>
-🧰 Languages and Tools
-</h3>
 
-<img align="center" alt="HTML" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+### 🧰 Languages and Tools
+
+<img align="center" alt="HTML" width="50px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="center" alt="CSS" width="30px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="center" alt="JavaScript" width="30px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="center" alt="React" width="30px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
