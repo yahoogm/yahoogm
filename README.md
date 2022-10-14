@@ -7,6 +7,8 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&lines=Beginner+Frontend+Web+Developer;Always+Learning+New+Things;Coding+Lover+From+Indonesia" alt="Typing SVG" /></a>
 </p>
 
+[![@yahoogm's Holopin board](https://holopin.me/yahoogm)](https://holopin.io/@yahoogm)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
