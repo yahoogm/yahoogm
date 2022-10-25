@@ -15,7 +15,7 @@
 <img align="left" alt="CSS" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" />
+<img align="left" alt="Next" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br>
