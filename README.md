@@ -9,7 +9,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yahoogm/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/yahoogm/count.svg" />
 </p>
 
 <p align="center">
