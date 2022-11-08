@@ -43,5 +43,5 @@
   
   <p align="center"> 
   Visitor<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  <img src="https://profile-counter.glitch.me/yahoogm/count.svg" />
 </p>
