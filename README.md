@@ -1,13 +1,8 @@
-<h3 align="center">
-  Welcome to Yahoo Garfield Manik profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<a href=#><img src="contribution.svg"></a>
-
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=29F62D&center=true&vCenter=true&width=450&lines=Beginner+Frontend+Web+Developer;Always+Learning+New+Things;Coding+Lover+From+Indonesia;Contributing+in+Hacktoberfest+2022" alt="Typing SVG" /></a>
 </p>
+
+<a href=#><img src="contribution.svg"></a>
 
 <p align="center">
 <img align="center" alt="hacktoberfest" width="400px" style="margin:auto;" src="https://user-images.githubusercontent.com/100346233/199377903-785cc33b-2153-4bdf-96b6-db36b0715d1b.png"/>
