@@ -3,6 +3,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yahoogm/count.svg" />
+</p>
+
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=29F62D&center=true&vCenter=true&width=450&lines=Beginner+Frontend+Web+Developer;Always+Learning+New+Things;Coding+Lover+From+Indonesia;Contributing+in+Hacktoberfest+2022" alt="Typing SVG" /></a>
 </p>
