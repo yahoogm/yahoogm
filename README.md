@@ -7,9 +7,6 @@
 
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=29F62D&center=true&vCenter=true&width=450&lines=Beginner+Frontend+Web+Developer;Always+Learning+New+Things;Coding+Lover+From+Indonesia;Contributing+in+Hacktoberfest+2022" alt="Typing SVG" /></a>
-  
-  <br>Visitor count<br>
-  <img align="center" src="https://profile-counter.glitch.me/yahoogm/count.svg" />
 </p>
 
 <p align="center">
@@ -43,3 +40,8 @@
   <a href="https://www.instagram.com/yahoomanik/" target="blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
+  
+  <p align="center"> 
+  Visitor<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
