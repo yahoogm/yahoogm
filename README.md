@@ -5,7 +5,7 @@
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="contribution.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
