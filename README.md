@@ -2,8 +2,6 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=29F62D&center=true&vCenter=true&width=450&lines=Welcome+To;Yahoo+Garfield+Manik+Profile;Beginner+Frontend+Web+Developer;Always+Learning+New+Things;Coding+Lover+From+Indonesia;Contributing+in+Hacktoberfest+2022" alt="Typing SVG" /></a>
 </p>
 
-<a href=#><img src="contribution.svg"></a>
-
 <p align="center">
 <img align="center" alt="hacktoberfest" width="400px" style="margin:auto;" src="https://user-images.githubusercontent.com/100346233/199377903-785cc33b-2153-4bdf-96b6-db36b0715d1b.png"/>
 </p>
