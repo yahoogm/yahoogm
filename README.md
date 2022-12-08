@@ -21,7 +21,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yahoo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoogm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yahoogm&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yahoogm&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### 🔍 Find me at
