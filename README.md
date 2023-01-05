@@ -20,7 +20,6 @@
       <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-20232a.svg?logo=tailwindcss&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="NPM" src="https://img.shields.io/badge/Node%20Package%20Manager-red.svg?logo=npm&logoColor=white"></a>
    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-orange.svg?logo=postman&logoColor=white"></a>
-   <a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&logoColor=purple"></a>
   </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yahoo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahoogm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
